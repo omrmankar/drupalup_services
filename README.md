@@ -1,2 +1,1 @@
-# drupalup_services
-example of drupal services
+README.md
